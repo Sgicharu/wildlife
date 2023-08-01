@@ -11,11 +11,17 @@ The application allow users to do the following:
 
 # Technologies Used
 
--JDK
--Junit
--Java
--SDK
--spark
+ Java.
+ Gradle(for unit testing).
+ Bootstrap.
+ Spark.
+ Material Design Bootstrap.
+
+# Project set up
+
+ Clone the project into your machine from https://github.com/Sgicharu/wildlife.git
+
+ Gradle run javac Wildlife-Tracker2.java to compile and java wildlifetracker to run the program
  
 # License
 
